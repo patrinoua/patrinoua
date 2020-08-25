@@ -1,5 +1,5 @@
 
-[![Angeliki is a coffee spectrum](https://www.dropbox.com/s/tutmtnlpf6yneoa/rainbow%20-%20da%20coffee%21%21%21.jpg?dl=0)](https://www.angelikipatrinou.com)
+[![Angeliki is a coffee spectrum](https://previews.dropbox.com/p/thumb/AA6F6tiZZpIeYsSKTRlVFERsBt6ObUeh6hl-smQ9TRiSBVPKfbZ8Atv-K5VO_n88RWut5YpQs0FNBgcFxbY3aCFqbfRxtHFtKD8bqlDdwZUMJQvQV6WV6JdBBpp_-hc4bApujGMgD1NPcTf-CD3Ka2YdMwwb3DJE9hl9BvE3djW_Qw4-KguWJXJxpCe1kYVDrQ_ogdsu74Vwn7QVvLDufw3MoD1tsscrD2_nX1Gd-Y6W1MTWHdt80kKIy3duMXBAD3quIWFQXrjcHN3fstTdybmYKBY1EDqHVBmFKnvjmsUaxyJe7FiUxleiyeUKgESUCM8Ww7NOvfrAp36ONIXELEFklUG0m3-1O9BtILAmNgOkFA/p.jpeg?fv_content=true&size_mode=5)](https://www.angelikipatrinou.com)
 
 ### Hi there 👋
 
@@ -7,7 +7,7 @@ I'm Angeliki. I'm a web and mobile app developer specializing in React, React Na
 
 On my free time I like playing ping pong and I even made an app about it! 
 
-[![PingPongBuddies](https://www.dropbox.com/s/mmxevh3xl6r1yxy/logo-margin.png?dl=0)](https://www.PingPongBuddies.com)
+[![PingPongBuddies](https://previews.dropbox.com/p/thumb/AA7cbmTX2BqOzRq_MVvFT1zFG4jeBCX-6PHr-Amz9e7We1JubZybWzObGODzE6zwC3U-pWLyi0LFMeJyKseAvNSGyB--Ajnr1SJfCzkj2NqbOZhkYFBNZF9DUSjahlUhjyXa3Qu8zQBKVft__TzayhOgLo3plb_RjwIOAjrpkJGreBXVv6ixBIcoiIe2f3-Ci2__DAE-SODF5W-ngrzuGW5_KYO5gKrJi1Q-CdscUP95_kYJ3f_l8uLxQfG7y904_MKOVRVSiReK1_pamGsGtBriP_F0lezRPKCI0yNZw4XmUuIoi4cuBZikPVlUGf0PsLqz_9wMcsGWeOfZAIOImpu_4Y0j3dHDqkFP6JlG6ENcVw/p.png?fv_content=true&size_mode=5)](https://www.PingPongBuddies.com)
 
 
 <!--
