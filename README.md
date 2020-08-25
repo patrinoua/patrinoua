@@ -1,4 +1,14 @@
+
+[![Angeliki is a coffee spectrum](https://www.dropbox.com/s/tutmtnlpf6yneoa/rainbow%20-%20da%20coffee%21%21%21.jpg?dl=0)](https://www.angelikipatrinou.com)
+
 ### Hi there 👋
+
+I'm Angeliki. I'm a web and mobile app developer specializing in React, React Native, Expo, Firebase, Node and Express. 
+
+On my free time I like playing ping pong and I even made an app about it! 
+
+[![PingPongBuddies](https://www.dropbox.com/s/mmxevh3xl6r1yxy/logo-margin.png?dl=0)](https://www.PingPongBuddies.com)
+
 
 <!--
 **patrinoua/patrinoua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
