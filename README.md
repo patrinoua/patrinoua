@@ -7,7 +7,7 @@ I'm Angeliki. I'm a web and mobile app developer specializing in React, React Na
 
 On my free time I like playing ping pong and I even made an app about it! 
 
-[![PingPongBuddies](https://github.com/patrinoua/patrinoua/blob/master/logo-margin.png)](PingPongBuddies.com)
+[![PingPongBuddies](https://github.com/patrinoua/patrinoua/blob/master/logo-margin.png)](http://PingPongBuddies.com)
 
 
 <!--
