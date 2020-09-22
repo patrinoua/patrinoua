@@ -19,6 +19,7 @@ and this [todo list](https://github.com/patrinoua/weve_todo_list) to brighten yo
 
 You can also check out my portfolio [here](http://angelikipatrinou.com/)
 
+
 <!--
 **patrinoua/patrinoua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,4 +33,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+- 👯 I’m always looking to collaborate on interesting React or React Native Projects, and usually do something on the side as well!
+
 -->
