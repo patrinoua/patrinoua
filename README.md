@@ -15,7 +15,7 @@ Some of my other favourite projects include
 
 [Connect 4](https://connect4-spiced.herokuapp.com/)
 
-and this [todo list](https://github.com/patrinoua/weve_todo_list) to brighten your day!
+and this [todo list](https://github.com/patrinoua/weve_todo_list) to brighten up your day!
 
 You can also check out my portfolio [here](http://angelikipatrinou.com/)
 
