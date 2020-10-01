@@ -19,6 +19,9 @@ and this [todo list](react-to-do-9bcf2.firebaseapp.com) to brighten up your day!
 
 You can also check out my portfolio [here](http://angelikipatrinou.com/)
 
+Feel free to say hi at patrinoua@gmail.com ! :) 
+
+I'm always interested in new projects so let me know if you have something in mind! 
 
 <!--
 **patrinoua/patrinoua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
