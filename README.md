@@ -19,6 +19,8 @@ and this [todo list](react-to-do-9bcf2.firebaseapp.com) to brighten up your day!
 
 You can also check out my portfolio [here](http://angelikipatrinou.com/)
 
+If you are currently looking for a job you might find this useful [tipsforjobs](https://github.com/patrinoua/tipsforjobs)
+
 Feel free to say hi at patrinoua@gmail.com ! :) 
 
 I'm always interested in new projects so let me know if you have something in mind! 
