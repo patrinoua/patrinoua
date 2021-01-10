@@ -1,9 +1,9 @@
 
 [![Angeliki is a coffee spectrum](https://github.com/patrinoua/patrinoua/blob/master/rainbow%20-%20da%20coffee!!!.jpg)](https://www.angelikipatrinou.com)<!-- .element maxWidth="500px" -->
 
-### Hi there 👋
+### Hey there 👋
 
-I'm Angeliki. I'm a web and mobile app developer specializing in React, React Native, Expo, Firebase, Node and Express. 
+I'm Angela! I'm a web and mobile app developer specializing in React, React Native, Expo, Firebase, Node and Express. 
 
 On my free time I like playing ping pong and I even made an app about it! 
 
