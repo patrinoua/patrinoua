@@ -17,7 +17,7 @@ Some of my other favourite projects include
 
 [Connect 4](https://connect4-spiced.herokuapp.com/)
 
-and this [todo list](react-to-do-9bcf2.firebaseapp.com) to brighten up your day!
+and this [todo list](https://react-to-do-9bcf2.web.app/) to brighten up your day!
 
 You can also check out my portfolio [here](http://angelikipatrinou.com/)
 
