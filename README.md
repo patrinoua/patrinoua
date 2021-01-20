@@ -23,7 +23,7 @@ You can also check out my portfolio [here](http://angelikipatrinou.com/)
 
 If you are currently looking for a job you might find this useful [tipsforjobs](https://github.com/patrinoua/tipsforjobs)
 
-Feel free to say hi at patrinoua@gmail.com or connect with me on [linkedin](https://www.linkedin.com/in/patrinoua/)! :) 
+Feel free to say hi at patrinoua@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/patrinoua/)! :) 
 
 I'm always interested in new projects so let me know if you have something in mind! 
 
