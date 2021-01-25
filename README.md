@@ -19,13 +19,13 @@ Some of my other favourite projects include
 
 and this [todo list](https://react-to-do-9bcf2.web.app/) to brighten up your day!
 
-You can also check out my portfolio [here](http://angelikipatrinou.com/)
-
 If you are currently looking for a job you might find this useful [tipsforjobs](https://github.com/patrinoua/tipsforjobs)
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/patrinoua/)
+<!-- I'm always interested in new projects so let me know if you have something in mind! -->
 
-I'm always interested in new projects so let me know if you have something in mind! 
+You can also check out my portfolio [here](http://angelikipatrinou.com/)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/patrinoua/)
 
 <!--
 **patrinoua/patrinoua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
