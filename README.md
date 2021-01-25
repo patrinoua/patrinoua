@@ -11,7 +11,7 @@ On my free time I like playing ping pong and I even made an app about it!
 
 Some of my other favourite projects include 
 
-[Buddies](https://buddies-app.com/) [[!Buddies](https://firebasestorage.googleapis.com/v0/b/buddies-website-cbfca.appspot.com/o/logo-2.png?alt=media&token=a2bdd629-a2e3-4fc3-a42c-9323011fa8ff)]
+[Buddies](https://buddies-app.com/) 
 
 [PinApp](https://pinapp-spiced.herokuapp.com/)
 
