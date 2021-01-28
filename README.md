@@ -17,6 +17,8 @@ Some of my other favourite projects include
 
 [Connect 4](https://connect4-spiced.herokuapp.com/)
 
+After visiting wonderful Spain, on the plane back I did [this](http://angeliki-spain.herokuapp.com/) 
+
 and this [todo list](https://react-to-do-9bcf2.web.app/) to brighten up your day!
 
 If you are currently looking for a job you might find this useful [tipsforjobs](https://github.com/patrinoua/tipsforjobs)
