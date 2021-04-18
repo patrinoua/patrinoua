@@ -11,7 +11,7 @@ On my free time I like playing ping pong and I even made an app about it!
 
 Some of my other favourite projects include 
 
-The app for expats, [Buddies](https://buddies-app.com/) 
+The app for expats [Buddies](https://buddies-app.com/) 
 
 <!-- [PinApp](https://pinapp-spiced.herokuapp.com/) -->
 
