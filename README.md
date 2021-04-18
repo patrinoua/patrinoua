@@ -11,15 +11,15 @@ On my free time I like playing ping pong and I even made an app about it!
 
 Some of my other favourite projects include 
 
-[Buddies](https://buddies-app.com/) 
+The app for expats, [Buddies](https://buddies-app.com/) 
 
-[PinApp](https://pinapp-spiced.herokuapp.com/)
+<!-- [PinApp](https://pinapp-spiced.herokuapp.com/) -->
 
-[Connect 4](https://connect4-spiced.herokuapp.com/)
+The classic game [Connect 4](https://connect4-spiced.herokuapp.com/)
 
-After visiting wonderful Spain, on the plane back I did [this](http://angeliki-spain.herokuapp.com/) 
+After visiting wonderful Spain, on the plane back I did [this](http://angeliki-spain.herokuapp.com/)! 
 
-and this [todo list](https://react-to-do-9bcf2.web.app/) to brighten up your day!
+This [todo list](https://react-to-do-9bcf2.web.app/) could brighten up your day!
 
 If you are currently looking for a job you might find this useful [tipsforjobs](https://github.com/patrinoua/tipsforjobs)
 
@@ -27,7 +27,7 @@ If you are currently looking for a job you might find this useful [tipsforjobs](
 
 You can also check out my portfolio [here](http://angelikipatrinou.com/)
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/patrinoua/)
+Let's be friends! [LinkedIn](https://www.linkedin.com/in/patrinoua/)
 
 <!--
 **patrinoua/patrinoua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
