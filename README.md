@@ -5,13 +5,12 @@
 
 I'm Angela! I'm a web and mobile app developer specializing in React, React Native, Expo, Firebase, Node and Express. 
 
-On my free time I like playing ping pong and I even made an app about it! 
-
-[![PingPongBuddies](https://github.com/patrinoua/patrinoua/blob/master/logo-margin.png)](https://ppb-firebase-hosting.web.app/)
+On my free time I like playing ping pong and I even made an app about it! [PingPongBuddies](https://ppb-firebase-hosting.web.app/) 
 
 Some of my other favourite projects include 
 
 The app for expats [Buddies](https://buddies-app.com/) 
+[![Buddies](https://firebasestorage.googleapis.com/v0/b/buddies-website-cbfca.appspot.com/o/buddies-banner.png?alt=media&token=01fcbfe2-a2fd-4152-814b-24ee4e7c3f1e)](https://buddies-app.com)
 
 <!-- [PinApp](https://pinapp-spiced.herokuapp.com/) -->
 
