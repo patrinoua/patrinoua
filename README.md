@@ -9,7 +9,8 @@ On my free time I like playing ping pong and I even made an app about it! [PingP
 
 Some of my other favourite projects include 
 
-The app for expats [Buddies](https://buddies-app.com/) 
+The app for expats! [Buddies](https://buddies-app.com/) 
+
 [![Buddies](https://firebasestorage.googleapis.com/v0/b/buddies-website-cbfca.appspot.com/o/buddies-%20banner.png?alt=media&token=6bd5c864-2a85-4692-82db-a65e56ea9c57)](https://buddies-app.com)
 
 <!-- [PinApp](https://pinapp-spiced.herokuapp.com/) -->
