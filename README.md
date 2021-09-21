@@ -24,7 +24,7 @@ If you are currently looking for a job you might find this useful [tipsforjobs](
 
 <!-- I'm always interested in new projects so let me know if you have something in mind! -->
 
-You can also check out my portfolio [here](http://angelikipatrinou.com/)
+You can also check out my portfolio [here](http://angelapatrinou.com/)
 
 Let's be friends! [LinkedIn](https://www.linkedin.com/in/patrinoua/)
 
