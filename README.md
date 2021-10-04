@@ -9,7 +9,7 @@ I'm Angela! I'm a web and mobile app developer specializing in React, React Nati
 
 Some of my other favourite projects include 
 
-Buddies, the app for expats [Buddies](https://buddies-app.com/) 
+[Buddies](https://buddies-app.com/), the app for expats 
 
 [![Buddies](https://firebasestorage.googleapis.com/v0/b/buddies-website-cbfca.appspot.com/o/buddies-%20banner.png?alt=media&token=6bd5c864-2a85-4692-82db-a65e56ea9c57)](https://buddies-app.com)
 
