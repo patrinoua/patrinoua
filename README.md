@@ -1,5 +1,4 @@
-<!-- 
-[![Angeliki is a coffee spectrum](https://github.com/patrinoua/patrinoua/blob/master/rainbow%20-%20da%20coffee!!!.jpg)](https://www.angelapatrinou.com)<!-- .element maxWidth="500px" --> -->
+<!-- [![Angeliki is a coffee spectrum](https://github.com/patrinoua/patrinoua/blob/master/rainbow%20-%20da%20coffee!!!.jpg)](https://www.angelapatrinou.com) -->
 
 ### Hey there 👋
 
