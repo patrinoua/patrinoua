@@ -1,9 +1,11 @@
 
-[![Angeliki is a coffee spectrum](https://github.com/patrinoua/patrinoua/blob/master/rainbow%20-%20da%20coffee!!!.jpg)](https://www.angelikipatrinou.com)<!-- .element maxWidth="500px" -->
+[![Angeliki is a coffee spectrum](https://github.com/patrinoua/patrinoua/blob/master/rainbow%20-%20da%20coffee!!!.jpg)](https://www.angelapatrinou.com)<!-- .element maxWidth="500px" -->
 
 ### Hey there 👋
 
 I'm Angela! I'm a web and mobile app developer specializing in React, React Native, Expo, Firebase, Node and Express. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrinoua&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- On my free time I like playing ping pong and I even made an app about it! [PingPongBuddies](https://ppb-firebase-hosting.web.app/)  -->
 
@@ -28,8 +30,6 @@ If you are currently looking for a job you might find this useful [tipsforjobs](
 You can also check out my portfolio [here](http://angelapatrinou.com/)
 
 Let's be friends! [LinkedIn](https://www.linkedin.com/in/patrinoua/)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrinoua&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **patrinoua/patrinoua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
