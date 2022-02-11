@@ -29,6 +29,8 @@ You can also check out my portfolio [here](http://angelapatrinou.com/)
 
 Let's be friends! [LinkedIn](https://www.linkedin.com/in/patrinoua/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrinoua&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **patrinoua/patrinoua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
