@@ -3,7 +3,7 @@
 
 ### Hey there 👋
 
-I'm Angela! I'm a web and mobile app developer specializing in React, React Native, Expo, Firebase, Node and Express. 
+I'm Angela, mobile app and web developer specializing in React, React Native, Expo, Firebase, Node and Express. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrinoua&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
