@@ -23,7 +23,7 @@ After visiting wonderful Spain, on the plane back I did [this](http://angeliki-s
 
 This [todo list](https://react-to-do-9bcf2.web.app/) could brighten up your day!
 
-If you are currently looking for a job you might find this useful [tipsforjobs](https://github.com/patrinoua/tipsforjobs)
+If you are considering working in tech or currently looking for a job you might find this useful [work-in-tech.org](https://work-in-tech.org)
 
 <!-- I'm always interested in new projects so let me know if you have something in mind! -->
 
