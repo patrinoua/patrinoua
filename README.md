@@ -9,7 +9,7 @@ I'm Angela! I'm a web and mobile app developer specializing in React, React Nati
 
 <!-- On my free time I like playing ping pong and I even made an app about it! [PingPongBuddies](https://ppb-firebase-hosting.web.app/)  -->
 
-Some of my other favourite projects include 
+Some of my favourite projects are 
 
 [Buddies](https://buddies-app.com/), the app for expats 
 
