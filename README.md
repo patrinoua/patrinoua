@@ -1,7 +1,7 @@
 <!-- [![Angeliki is a coffee spectrum](https://github.com/patrinoua/patrinoua/blob/master/rainbow%20-%20da%20coffee!!!.jpg)](https://www.angelapatrinou.com) -->
 
 
-Hey there 👋, I'm Angela, a web and mobile app developer specializing in React, React Native, Expo, Firebase, Node and Express. 
+Hey there 👋, I'm Angela, web and mobile app developer and I enjoy coding with React, React Native, Expo, Firebase, Node and Express. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrinoua&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
