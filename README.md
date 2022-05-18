@@ -12,6 +12,8 @@ I'm passionate about code quality. Details matter. This is why I prefer writing 
 - Atomic & Reusable
 - I'm a big advocate of Design being not "just drawings" but the way we organize information. Good design is key to success and hence a good code base should closely follow good design.
 - Storybook 
+- Well tested
+I believe that these contribute to stronger and faster development and a strong dev culture.
 
 <!-- On my free time I like playing ping pong and I even made an app about it! [PingPongBuddies](https://ppb-firebase-hosting.web.app/)  -->
 
