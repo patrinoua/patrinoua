@@ -36,9 +36,9 @@ If you are considering working in tech or currently looking for a job you might 
 
 <!-- I'm always interested in new projects so let me know if you have something in mind! -->
 
-You can also check out my portfolio [here](http://angelapatrinou.com/)
+You can also check out my webpage [here](http://angelapatrinou.com/)
 
-Let's be friends! [LinkedIn](https://www.linkedin.com/in/patrinoua/)
+#### Let's be friends! [LinkedIn](https://www.linkedin.com/in/patrinoua/)
 
 <!--
 **patrinoua/patrinoua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
