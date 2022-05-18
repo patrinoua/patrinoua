@@ -7,7 +7,8 @@ Hey there 👋 I'm Angela, web and mobile app developer and I enjoy coding with 
 
 ### How I like my code
 I'm passionate about code quality. Details matter. This is why I prefer writing code that is
-- Clean (no semicolons, no spaghetti code)
+- Minimal (no semicolons)
+- Clean (no spaghetti code)
 - KISS (Keep it stupid simple) and DRY (Do not repeat yourself)
 - Atomic & Reusable
 - I'm a big advocate of Design being not "just drawings" but the way we organize information. Good design is key to success and hence a good code base should closely follow good design.
