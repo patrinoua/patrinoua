@@ -11,9 +11,9 @@ I'm passionate about code quality. Details matter. This is why I prefer writing 
 - Clean (no spaghetti code)
 - KISS (Keep it stupid simple) and DRY (Do not repeat yourself)
 - Atomic & Reusable
-- I'm a big advocate of Design being not "just drawings" but the way we organize information. Good design is key to success and hence a good code base should closely follow good design.
-- Storybook 
 - Well tested
+- I'm a big advocate of Design being not "just drawings" but the way we organize information. Good design is key to success and hence a good code base should closely follow good design.
+- Demonstrated in Storybook  
 
 I believe that these contribute to stronger and faster development and a strong dev culture.
 
