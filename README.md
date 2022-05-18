@@ -8,8 +8,7 @@ Hey there 👋 I'm Angela, web and mobile app developer and I enjoy coding with 
 ## How I like my code
 - Clean (no semicolons, no spaghetti code)
 - KISS (Keep it stupid simple) and DRY (Do not repeat yourself)
-- Reusable
-- Atomic
+- Atomic & Reusable
 - I'm a big advocate of Design being not "just drawings" but the way we organize information. Good design is key to success and hence a good code base should closely follow good design.
 - Storybook 
 
