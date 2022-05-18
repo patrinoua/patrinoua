@@ -5,6 +5,14 @@ Hey there 👋 I'm Angela, web and mobile app developer and I enjoy coding with 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrinoua&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+## How I like my code
+- Clean (no semicolons, no spaghetti code)
+- KISS (Keep it stupid simple) and DRY (Do not repeat yourself)
+- Reusable
+- Atomic
+- I'm a big advocate of Design being not "just drawings" but the way we organize information. Good design is key to success and hence a good code base should closely follow good design.
+- Storybook 
+
 <!-- On my free time I like playing ping pong and I even made an app about it! [PingPongBuddies](https://ppb-firebase-hosting.web.app/)  -->
 
 Some of my favourite projects are 
