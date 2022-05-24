@@ -21,9 +21,11 @@ I believe that these contribute to stronger and faster development and a strong 
 
 ### Some of my favourite projects are 
 
-[Buddies](https://buddies-app.com/) the app for expats 
+- [Buddies](https://buddies-app.com/) the app for expats 
 
 [![Buddies](https://firebasestorage.googleapis.com/v0/b/buddies-website-cbfca.appspot.com/o/buddies-%20banner.png?alt=media&token=6bd5c864-2a85-4692-82db-a65e56ea9c57)](https://buddies-app.com)
+
+- Tech tips: [work-in-tech.org](https://work-in-tech.org)
 
 <!-- [PinApp](https://pinapp-spiced.herokuapp.com/) -->
 
@@ -33,7 +35,6 @@ After visiting wonderful Spain, on the plane back I did [this](http://angeliki-s
 
 This [todo list](https://react-to-do-9bcf2.web.app/) could brighten up your day!
 
-If you are considering working in tech or currently looking for a job you might find this useful [work-in-tech.org](https://work-in-tech.org)
 
 <!-- I'm always interested in new projects so let me know if you have something in mind! -->
 
