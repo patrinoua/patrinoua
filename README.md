@@ -23,22 +23,23 @@ I believe that these contribute to stronger and faster development and a strong 
 
 - [Buddies](https://buddies-app.com/) the app for expats 
 
-[![Buddies](https://firebasestorage.googleapis.com/v0/b/buddies-website-cbfca.appspot.com/o/buddies-%20banner.png?alt=media&token=6bd5c864-2a85-4692-82db-a65e56ea9c57)](https://buddies-app.com)
+<img width="619" alt="Screenshot 2022-05-22 at 9 13 39 PM" src="https://user-images.githubusercontent.com/36475005/170605455-ae1180b4-60a8-4806-8dc3-092a1775b341.png">
+- 🤔 I’m looking for help with this so feel free to get in touch if interested! 
 
 - Tech tips: [work-in-tech.org](https://work-in-tech.org)
 
 <!-- [PinApp](https://pinapp-spiced.herokuapp.com/) -->
 
-The classic game [Connect 4](https://connect4-spiced.herokuapp.com/)
+- The classic game [Connect 4](https://connect4-spiced.herokuapp.com/)
 
-After visiting wonderful Spain, on the plane back I did [this](http://angeliki-spain.herokuapp.com/)! 
+- After visiting wonderful Spain, on the plane back I did [this](http://angeliki-spain.herokuapp.com/)! 
 
-This [todo list](https://react-to-do-9bcf2.web.app/) could brighten up your day!
+<!-- This [todo list](https://react-to-do-9bcf2.web.app/) could brighten up your day! -->
 
 
 <!-- I'm always interested in new projects so let me know if you have something in mind! -->
 
-You can also check out my webpage [here](http://angelapatrinou.com/)
+- Check out my webpage [here](http://angelapatrinou.com/)
 
 #### Let's be friends! [LinkedIn](https://www.linkedin.com/in/patrinoua/)
 
