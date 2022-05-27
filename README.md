@@ -24,7 +24,7 @@ I believe that these contribute to stronger and faster development and a strong 
 - [Buddies](https://buddies-app.com/) the app for expats 
 
 <img width="619" alt="Screenshot 2022-05-22 at 9 13 39 PM" src="https://user-images.githubusercontent.com/36475005/170605455-ae1180b4-60a8-4806-8dc3-092a1775b341.png">
-- 🤔 I’m looking for help with this so feel free to get in touch if interested! 
+🤔 I’m looking for help for developing new features and database discussions, feel free to get in touch if interested! 
 
 - Tech tips: [work-in-tech.org](https://work-in-tech.org)
 
