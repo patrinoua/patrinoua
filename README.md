@@ -2,6 +2,7 @@
 
 
 Hey there 👋 I'm Angela, web and mobile app developer and I enjoy coding with React, React Native, Expo, Firebase, Node and Express. 
+
 I work at Artsy, an open source online art space with a huge database of artists, artworks, galleries and online auctions.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrinoua&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
