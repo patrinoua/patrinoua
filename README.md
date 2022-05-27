@@ -30,7 +30,7 @@ I believe that these contribute to stronger and faster development and a strong 
 
 
 
-- Tech tips: [work-in-tech.org](https://work-in-tech.org)
+- [work-in-tech.org](https://work-in-tech.org)
 
 <!-- [PinApp](https://pinapp-spiced.herokuapp.com/) -->
 
