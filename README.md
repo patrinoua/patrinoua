@@ -32,7 +32,7 @@ I believe that these contribute to stronger and faster development and a strong 
 
 
 
-- [work-in-tech.org](https://work-in-tech.org)
+- [work-in-tech.org](https://work-in-tech.org](https://github.com/patrinoua/tipsforjobs)
 
 <!-- [PinApp](https://pinapp-spiced.herokuapp.com/) -->
 
