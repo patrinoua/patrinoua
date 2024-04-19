@@ -39,7 +39,9 @@ I believe that these contribute to stronger and faster development and a strong 
 
 - Check out my webpage [here](http://angelapatrinou.com/)
 
-#### Let's be friends! [LinkedIn](https://www.linkedin.com/in/patrinoua/)
+##### Let's be friends! 
+[-> LinkedIn](https://www.linkedin.com/in/patrinoua/)
+[-> Instagra](https://www.instagram.com/mrsblackgr/)
 
 <!--
 **patrinoua/patrinoua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
