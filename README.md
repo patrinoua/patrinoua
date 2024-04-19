@@ -1,9 +1,6 @@
-<!-- [![Angeliki is a coffee spectrum](https://github.com/patrinoua/patrinoua/blob/master/rainbow%20-%20da%20coffee!!!.jpg)](https://www.angelapatrinou.com) -->
-
 
 Hey there 👋 I'm Angela, web and mobile app developer and I enjoy coding with React, React Native, Expo, Firebase, Node and Express. 
 
-<!--I work at Artsy, an open source online art space with a huge database of artists, artworks, galleries and online auctions. -->
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrinoua&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
@@ -25,12 +22,7 @@ I believe that these contribute to stronger and faster development and a strong 
 
 ### Some of my favourite projects are 
 
-- [Buddies](https://buddies-app.com/) the app for expats 
-
-<img width="619" alt="Screenshot 2022-05-22 at 9 13 39 PM" src="https://user-images.githubusercontent.com/36475005/170605455-ae1180b4-60a8-4806-8dc3-092a1775b341.png">
-🤔 I’m looking for help for developing new features and database discussions, feel free to get in touch if interested! 
-
-
+- [buddies](https://buddies-app.com/) the app for expats 
 
 - [work-in-tech.org](https://github.com/patrinoua/tipsforjobs)
 
