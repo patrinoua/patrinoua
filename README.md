@@ -41,6 +41,7 @@ I believe that these contribute to stronger and faster development and a strong 
 
 ##### Let's be friends! 
 [-> LinkedIn](https://www.linkedin.com/in/patrinoua/)
+
 [-> Instagra](https://www.instagram.com/mrsblackgr/)
 
 <!--
