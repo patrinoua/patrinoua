@@ -22,22 +22,22 @@ I believe that these contribute to stronger and faster development and a strong 
 
 ### Some of my favourite projects are 
 
-- [buddies](https://buddies-app.com/) the app for expats 
+<!-- [buddies](https://buddies-app.com/) the app for expats -->
 
-- [work-in-tech.org](https://github.com/patrinoua/tipsforjobs)
+- [work-in-tech.org](https://github.com/patrinoua/tipsforjobs) 
 
 <!-- [PinApp](https://pinapp-spiced.herokuapp.com/) -->
 
-- The classic game [Connect 4](https://connect4-spiced.herokuapp.com/)
+<!-- - The classic game [Connect 4](https://connect4-spiced.herokuapp.com/) -->
 
-- After visiting wonderful Spain, on the plane back I did [this](http://angeliki-spain.herokuapp.com/)! 
+<!-- - After visiting wonderful Spain, on the plane back I did [this](http://angeliki-spain.herokuapp.com/)!  -->
 
 <!-- This [todo list](https://react-to-do-9bcf2.web.app/) could brighten up your day! -->
 
 
 <!-- I'm always interested in new projects so let me know if you have something in mind! -->
 
-- Check out my webpage [here](http://angelapatrinou.com/)
+<!-- - Check out my webpage [here](http://angelapatrinou.com/) -->
 
 ##### Let's be friends
 
