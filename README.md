@@ -43,7 +43,7 @@ I believe that these contribute to stronger and faster development and a strong 
 
 -> [LinkedIn](https://www.linkedin.com/in/patrinoua/)
 
--> [Instagram](https://www.instagram.com/mrsblackgr/)
+<!-- -> [Instagram](https://www.instagram.com/mrsblackgr/) -->
 
 <!--
 **patrinoua/patrinoua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
