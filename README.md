@@ -21,6 +21,7 @@ I believe that these contribute to stronger and faster development and a strong 
 <!-- On my free time I like playing ping pong and I even made an app about it! [PingPongBuddies](https://ppb-firebase-hosting.web.app/)  -->
 
 ### Some of my favourite projects are 
+- [https://my-art-resources.vercel.app/](https://my-art-resources.vercel.app/)
 
 <!-- [buddies](https://buddies-app.com/) the app for expats -->
 
